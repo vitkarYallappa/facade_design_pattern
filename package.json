@@ -1,0 +1,20 @@
+{
+  "name": "facade_design_pattern",
+  "version": "1.0.0",
+  "description": "The Facade Design Pattern is a structural design pattern",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2"
+  }
+}
